@@ -54,7 +54,9 @@ export default function Navbar() {
             </a>
           </div>
         )}
-        <a href="#">Contact us</a>
+        <a href="#" className="inline-block text-blue-500 ">
+          Contact us
+        </a>
       </nav>
     </header>
   );
