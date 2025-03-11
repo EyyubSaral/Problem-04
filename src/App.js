@@ -54,7 +54,10 @@ export default function Navbar() {
             </a>
           </div>
         )}
-        <a href="#" className="inline-block text-blue-500 ">
+        <a
+          href="https://www.youtube.com/watch?v=-IcGvBE5xfg"
+          className="inline-block text-blue-500 "
+        >
           Contact us
         </a>
       </nav>
