@@ -54,6 +54,7 @@ export default function Navbar() {
             </a>
           </div>
         )}
+        <a href="#">Contact us</a>
       </nav>
     </header>
   );
